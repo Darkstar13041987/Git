@@ -26,4 +26,4 @@
 
 + **git branch -d <branchname>** - 
 
-+ **git marge** - 
++ **git merge** - 
