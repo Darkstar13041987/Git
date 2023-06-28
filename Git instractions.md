@@ -11,9 +11,10 @@
 
 >![](https://vertex-academy.com/tutorials/wp-content/uploads/2018/12/abc.png)
 
-+ **git add [название файла]** -
 
-+ **git add .** -
++ **git add** - *это первая команда в цепочке операций, предписывающей Git «сохранить» снимок текущего состояния проекта в истории коммитов.*
+
+![](https://www.w3docs.com/uploads/media/default/0001/03/ad19114d2f18ae7f7e8b99a5110d1a2f339282c6.png)
 
 + **git commit -m "Комментарий к коммиту"** -
 
