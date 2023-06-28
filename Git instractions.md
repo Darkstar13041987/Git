@@ -22,3 +22,7 @@
 + **git branch <имя ветки>** -
 
 + **git checkout <имя ветки>** -
+
++ **git branch -d <branchname>** - 
+
++ **git marge** - 
