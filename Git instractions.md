@@ -11,4 +11,14 @@
 
 >![](https://vertex-academy.com/tutorials/wp-content/uploads/2018/12/abc.png)
 
++ **git add [название файла]** -
 
++ **git add .** -
+
++ **git commit -m "Комментарий к коммиту"** -
+
++ **git log** - 
+
++ **git branch <имя ветки>** -
+
++ **git checkout <имя ветки>** -
