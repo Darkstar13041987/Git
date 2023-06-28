@@ -30,3 +30,9 @@
 + **git branch -d <branchname>** - удалить **Ветку**
 
 + **git merge** - *Команда git merge выполняет слияние отдельных направлений разработки, созданных с помощью команды git branch, в единую ветку.*
+
+>## Краткий курс по GIT Можно посмотрет тут (https://gb.ru/courses/1117)
+
+![](http://kartinkof.club/uploads/posts/2022-04/1649845973_50-kartinkof-club-p-rzhachnie-kartinki-konets-50.jpg)
+
+
