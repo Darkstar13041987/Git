@@ -78,4 +78,4 @@ Pull request — *это заявка на слияние кода из разн
 + Отправляем свою версию в *свой Github*.
 + На сайте Github нажимаем кнопку *pull request*.
 
-
+![Конец](https://catherineasquithgallery.com/uploads/posts/2021-02/1613671381_5-p-fon-dlya-kontsa-prezentatsii-6.jpg)
