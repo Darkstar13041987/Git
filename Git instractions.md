@@ -33,8 +33,11 @@
 
 >## Краткий курс по GIT Можно посмотрет тут (https://gb.ru/courses/1117)
 
-![](http://kartinkof.club/uploads/posts/2022-04/1649845973_50-kartinkof-club-p-rzhachnie-kartinki-konets-50.jpg)
+![](http://kartinkof.club/uploads/posts/2022-04/1649845973_50-kartinkof-club-p-rzhachnie-kartinki-konets-50.jpg)  
+ 
 ___
+
+># **LESSON 3** 
 
 ___
 > # **GIT + GITHUB**
